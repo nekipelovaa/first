@@ -16,3 +16,7 @@ func main() {
 func test() {
 	fmt.Printf("%d число", 3)
 }
+
+func test2() {
+	fmt.Println("Test2")
+}
