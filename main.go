@@ -11,8 +11,14 @@ func main() {
 	fmt.Println(cityId == SettlementId(strCityId))
 	fmt.Println("1 + 1 =", 1.01+1.01)
 	test()
+	test2()
+	test3()
 }
 
 func test() {
 	fmt.Printf("%d число", 3)
+}
+
+func test3() {
+	fmt.Println("test3")
 }
